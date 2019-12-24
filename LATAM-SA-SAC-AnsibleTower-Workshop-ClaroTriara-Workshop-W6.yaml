@@ -1,0 +1,27 @@
+Ansible Tower Web Portal:
+  AnsibleTower: ansibletower-latamsasacansiblet-qogetyks.srv.ravcloud.com
+
+Web Server URL:
+  Webserver: webserver-latamsasacansiblet-vwo7cit3.srv.ravcloud.com
+
+Wordpress Server URL:
+  Wordpress: wordpress-latamsasacansiblet-wof8b4sc.srv.ravcloud.com
+
+JBoss Application Server URL:
+  JBoss: jboss-latamsasacansiblet-gxziwhcx.srv.ravcloud.com
+
+JBoss Java Application URL:
+  JBoss: jboss-latamsasacansiblet-gxziwhcx.srv.ravcloud.com/ticket-monster
+
+Windows 2012:
+  Windows: windows-latamsasacansiblet-ie82xnxh.srv.ravcloud.com
+
+VyOs Appliance:
+  VyOS: vyos-latamsasacansiblet-v43hsg9t.srv.ravcloud.com
+
+CloudForms Self-Service Portal:
+  CloudForms: cloudforms-latamsasacansiblet-znlhdvlf.srv.ravcloud.com/self_service
+
+CloudForms Cloud Management Engine Portal:
+  CloudForms: cloudforms-latamsasacansiblet-znlhdvlf.srv.ravcloud.com
+
